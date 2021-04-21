@@ -1,0 +1,12 @@
+.score-card{
+    width: 80%;
+    margin-bottom: 20px;
+    min-height: 30px;
+    font-size: 3rem;
+}
+
+.finish-message{
+    font-size: 3rem ;
+    font: 600;
+    text-align: center;
+}

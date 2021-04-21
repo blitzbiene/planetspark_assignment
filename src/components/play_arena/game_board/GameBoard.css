@@ -1,0 +1,32 @@
+#gameboard {
+    margin-top: 40px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    
+    
+}
+.box{
+  border-bottom: 2px red solid;
+  border-right: 2px solid black;
+  border-left: 2px solid red;
+  border-top: 2px solid black;
+  margin: 2px;
+
+  border-radius: 100000px;
+  width: 150px;
+  height: 150px;
+}
+
+.X{
+  font-size: 6rem;
+
+}
+.O{
+  font-size: 6rem;
+}
+  
+  
+  
+  

@@ -1,0 +1,16 @@
+.game-title{
+    
+    margin-bottom: 7px;
+    height: 10vh;
+    text-align: center ;
+}
+.play-arena{
+
+   text-align: center;
+   height: 85vh;
+   
+}
+.app{
+    display: flex;
+    flex-direction: column;
+}
